@@ -3,3 +3,5 @@ var hii =()=>{
 }
 
 const obj = {name:"hatim"}
+
+// 5ir ana hada 
