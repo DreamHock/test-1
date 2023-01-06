@@ -1,5 +1,5 @@
 var hii =()=>{
-    console.log("second try")
+    console.log("second tryasdf")
 }
 
 const obj = {name:"hatim"}
