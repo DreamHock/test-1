@@ -1,5 +1,5 @@
 var hii =()=>{
-    console.log("git conflict")
+    console.log("second try")
 }
 
 const obj = {name:"hatim"}
